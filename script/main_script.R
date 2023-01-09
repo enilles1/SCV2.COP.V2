@@ -13,7 +13,7 @@ library(dplyr)
 
 # Import data ------------------------------------------------
 
-#setwd("~/Documents/GitHub/SCV2.COP/")
+#setwd("~/Documents/GitHub/SCV2.COP.V2/")
 df_mu <- read_csv("data/df_mu_out.csv")
 df_delta <- read_csv("data/df_delta_out.csv")
 df_ba1 <- read_csv("data/df_ba1_out.csv")
