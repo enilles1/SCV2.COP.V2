@@ -54,8 +54,6 @@ model_ba1 <- model_gam(df_ba1)
 model_ba2 <- model_gam(df_ba2)
 model_ba45 <- model_gam(df_ba45)
 
-# XX EXPORT MODELS HERE, TO BE IMPORTED IN FINAL VERSION? XX
-
 # Plot outputs ------------------------------------------------------------
 
 xx1 <- expression(10^0); xx2 <- expression(10^1); xx3 <- expression(10^2)
